@@ -11,7 +11,7 @@ Provides calculations for expressions with integer and real numbers from -100000
 
 Allowed arithmetic operators:
 
-      | Operator name | Infix notation <br /> (Classic) |
+      | Operator name | Infix notation (Classic) |
       | --------- | ------ |
       | Brackets | (a + b) |
       | Addition | a + b |
